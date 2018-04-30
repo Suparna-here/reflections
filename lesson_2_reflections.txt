@@ -1,0 +1,19 @@
+What happens when you initialize a repository? Why do you need to do it?
+By running git init, .git folder is created in the directory. OFF
+$git log  
+current branch master, no commit.
+
+$git status
+no commit yet. with untracked files. Run "git add <file>..." to include what will be commited.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+$git add <file>
+add file to Staging area.
+Makes the stage what to commit next. Make it possible to have 1commit per logical change.
+
+
+
+
+
+
