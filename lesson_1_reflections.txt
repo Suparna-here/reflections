@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+You can compare and correct. OFF
+
+How can you use the commands git log and git diff to view the history of files? OFF
+git log show commit history
+git diff can compare 2 versions of a file with their commit ids.
+
+
+How might using version control make you more confident to make changes that could break something?
+You can always undo by comparing to previous checkout version of repository. OFF
+
+Now that you have your workspace set up, what do you want to try using Git for?
+For version control of repository.
+git clone <repo>  ON
+
+
+
+
+
+
+
+
