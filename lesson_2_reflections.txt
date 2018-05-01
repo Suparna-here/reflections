@@ -8,9 +8,47 @@ no commit yet. with untracked files. Run "git add <file>..." to include what wil
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-$git add <file>
+$git add <file>    OFF
 add file to Staging area.
 Makes the stage what to commit next. Make it possible to have 1commit per logical change.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+commit is a snapshot of repository at a particular time. With staging you need not commit every thing in working directory, you have a separate place to stage what to commit.   OFF
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+want to work on some experimental feature
+not part of present deliverable
+
+You can check out a particular branch with it's label, can make changes on that branch and commit.
+By default a repository comes with only a master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+It help me understand branch structure, master branch,
+commit-ID vs.branch,detached Head State message.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+git merge   Always merges all the commits from specified branches into the currently checked out branch, creating a new commit for that branch.
+
+In diagram it is easier to understand which is the current branch and what branches are merged with it to create a new commit for that branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+aumatic merge is possible when 2 persons are working on differnet parts of the same file.
+Otherwise it is good choise to do manual merging as file authors are expert about that file.
+When automatic merging is possible it is waste of energy to do manual merging.
+
+
+
+
+
+
+
+
+
 
 
 
