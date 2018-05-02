@@ -5,6 +5,7 @@ current branch master, no commit.
 
 $git status
 no commit yet. with untracked files. Run "git add <file>..." to include what will be commited.
+This makes a normal directory into git repository.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
@@ -18,16 +19,15 @@ commit is a snapshot of repository at a particular time. With staging you need n
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-want to work on some experimental feature
-not part of present deliverable
+want to work on some experimental feature.
+not part of present deliverable.
 
 You can check out a particular branch with it's label, can make changes on that branch and commit.
-By default a repository comes with only a master branch.
+By default a repository comes with only a master branch. You can create more branches when needed and work.
 
 How do the diagrams help you visualize the branch structure?
 
-It help me understand branch structure, master branch,
-commit-ID vs.branch,detached Head State message.
+It help me understand... branch structure, master branch,commit-ID vs.branch,detached Head State message.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
