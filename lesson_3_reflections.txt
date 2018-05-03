@@ -17,7 +17,9 @@ clone: When you clone a GitHub repository in your own computer(local). You may o
 branch: When you label a commit-id in a repository it is called branch. You can check out a particular branch with it's label, can make changes on 
 that branch and commit. By default a repository comes with only a master branch. You can create more branches when needed and work.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-
+local copy of remote will be used while merging remote changes in your local copy or in other words while you update your local copy with the changes
+in remote.
 
 
