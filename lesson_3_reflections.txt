@@ -8,3 +8,16 @@ That is because I may be working on those files, already done few commits and ri
 Being Author of the files I can decide when those are ready to collaborate with others through pull. Otherwise it can lead to unintended changes 
 in local code base or lead to conflicts, which I will not be able to resolve effectively as I am middle of something and yet to commit.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork: When you ask GitHub clone one existing GitHub repository(for which you don't have push permission) in it's own GitHub server and give you push permission for the clone repository.
+
+clone: When you clone a GitHub repository in your own computer(local). You may or may not have push permission for the remote GitHub repository.
+
+branch: When you label a commit-id in a repository it is called branch. You can check out a particular branch with it's label, can make changes on 
+that branch and commit. By default a repository comes with only a master branch. You can create more branches when needed and work.
+
+
+
+
+
