@@ -22,4 +22,11 @@ What is the benefit of having a copy of the last known state of the remote store
 local copy of remote will be used while merging remote changes in your local copy or in other words while you update your local copy with the changes
 in remote.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I need to spend a sigficant amount of time while colaborating with a single person. Forget about colaboration with multiple people since that is too
+hard.
+
+With GitHub I can colaborate with multiple people at ease.
+
 
